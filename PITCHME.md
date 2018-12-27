@@ -1,4 +1,5 @@
 ---
+background-color : yellow
 # 네더지
 두더지가 아니라 네더지입니다.
 
