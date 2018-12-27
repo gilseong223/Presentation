@@ -4,12 +4,7 @@
 
 ---
 ### 팀원들
-![2](https://user-images.githubusercontent.com/500x500/https://user-images.githubusercontent.com/30440457/50471413-cf3d8b80-09f7-11e9-9022-4f06c373b79c.jpg)
-
-
----
-# 슬라이드 3
-안녕
+![2](https://user-images.githubusercontent.com/30440457/50471599-c4cfc180-09f8-11e9-9016-572cadd9eb81.jpg)
 
 ---
 # 박길성
